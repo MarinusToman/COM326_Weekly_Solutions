@@ -1,4 +1,15 @@
-﻿namespace Q3
+﻿/* 
+ * Program.cs
+ * Desc: Program to print ASCII alphabet.
+ * 
+ * Version information: v0.0.1
+ * Author: Marinus Toman
+ * Date:   29-09-2023
+ *  
+ * Copyright notice 
+ */
+
+namespace Q3
 {
     internal class Program
     {

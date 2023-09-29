@@ -1,4 +1,15 @@
-﻿namespace Q1
+﻿/* 
+ * Program.cs
+ * Desc: Program to take user input.
+ * 
+ * Version information: v0.0.1
+ * Author: Marinus Toman
+ * Date:   29-09-2023
+ *  
+ * Copyright notice 
+ */
+
+namespace Q1
 {
     internal class Program
     {
